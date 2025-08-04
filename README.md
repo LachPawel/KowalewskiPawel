@@ -8,4 +8,4 @@ Software Engineer, Educator, Content Creator, and a former University Lecturer. 
 
 Education is the foundational step to solving nearly any conceivable problem. Particularly in contemporary times, the influence of education and technology becomes increasingly evident. Learning is my greatest passion, as it stands as one of the most gratifying aspects of life. It holds the potential to induce change, elevate life standards, and generate fresh possibilities. This is also a primary reason why I find programming so captivating!
 
-<img alt='CodeWars' href='https://www.codewars.com/users/KowalewskiPawel' src='https://www.codewars.com/users/KowalewskiPawel/badges/large' />
+<img alt='CodeWars' href='https://www.codewars.com/users/LachPawel' src='https://www.codewars.com/users/LachPawel/badges/large' />
